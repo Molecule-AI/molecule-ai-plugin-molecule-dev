@@ -10,6 +10,7 @@ tags: [conventions, quality, coordination, codebase]
 runtimes:
   - claude_code
   - deepagents
+  - hermes
 
 skills:
   - review-loop
